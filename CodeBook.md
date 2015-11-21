@@ -8,7 +8,8 @@ subject - The ID of the test subject
 activity - The type of activity performed when the corresponding measurements were taken
 Measurements
 
-tBodyAccMeanX
+
+dyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
@@ -87,7 +88,6 @@ fBodyBodyGyroMagMeanFreq
 fBodyBodyGyroJerkMagMean
 fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
-
 Activity Labels
 
 WALKING (value 1): subject was walking during the test
